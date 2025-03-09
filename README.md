@@ -1,2 +1,1 @@
-# Bezpieczny-Bot
-Bezpieczny bot
+bezpieczny bot 
