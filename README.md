@@ -1,1 +1,1 @@
-bezpieczny bot 
+python bot.py
