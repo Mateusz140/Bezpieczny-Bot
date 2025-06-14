@@ -1,1 +1,1 @@
-python bot.py
+szczuczna inteligencja python bot.py
