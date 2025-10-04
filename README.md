@@ -1,1 +1,1 @@
-szczuczna inteligencja python bot.py
+https://chatgpt.com/g/g-lvtjtj09i-fundamentally-committed-2-key-intel-transparency
